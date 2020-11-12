@@ -9,3 +9,4 @@ Mobiiliohjelmointi (syksy 2020), harjoitustehtävät
 - Tehtävä 5: [Calculator with pages](/calculator_with_pages/App.js)
 - Tehtävä 6: [Recipe finder](/recipe_finder/App.js)
 - Tehtävä 7: [Euro converter](/euro_converter/App.js)
+- Tehtävä 8: [Address finder](/find_the_address/App.js)
