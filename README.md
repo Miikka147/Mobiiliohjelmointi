@@ -13,3 +13,5 @@ Mobiiliohjelmointi (syksy 2020), harjoitustehtävät
 - Tehtävä 9: [Address finder with location](/find_with_location/App.js)
 - Tehtävä 10: [Shoppinglist with database](/shoppinglist_with_db/App.js)
 - Tehtävä 11: [Shoppinglist with firebase](/shoppinglist_with_firebase/App.js)
+- Tehtävä 12: [Contacts](/Contacts/App.js)
+
