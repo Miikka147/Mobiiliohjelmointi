@@ -15,4 +15,6 @@ Mobiiliohjelmointi (syksy 2020), harjoitustehtävät
 - Tehtävä 11: [Shoppinglist with firebase](/shoppinglist_with_firebase/App.js)
 - Tehtävä 12: [Contacts](/contacts/App.js)
 - Tehtävä 13: [Text to speech](/text_to_speech/App.js)
+- Tehtävä 14: [Shoppinglist with elements](/shoppinglist_with_elements/App.js)
+- Tehtävä 15: [My places](/myplaces/App.js)
 
