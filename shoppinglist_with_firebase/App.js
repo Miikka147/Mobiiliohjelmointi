@@ -2,14 +2,15 @@ import React, {useState, useEffect } from 'react';
 import { StyleSheet, Text, View, Button, TextInput, FlatList } from 'react-native';
 import * as firebase from 'firebase';
 
+
 const firebaseConfig = {
-  apiKey: "AIzaSyC52WFVSDDhJ4PGbDvZ2XugZIBEIxWOdKI",
-  authDomain: "shoppinglist-8ad9e.firebaseapp.com",
-  databaseURL: "https://shoppinglist-8ad9e.firebaseio.com",
-  projectId: "shoppinglist-8ad9e",
-  storageBucket: "shoppinglist-8ad9e.appspot.com",
-  messagingSenderId: "133344180863",
-  appId: "1:133344180863:web:278547860f96ecac9ddd4a"
+  apiKey: "AIzaSyBOrBEcUVWQZEo5zhudJdl3PqmU0U8-B4Q",
+  authDomain: "tasks-b997e.firebaseapp.com",
+  databaseURL: "https://tasks-b997e-default-rtdb.firebaseio.com/",
+  projectId: "tasks-b997e",
+  storageBucket: "tasks-b997e.appspot.com",
+  messagingSenderId: "1041755818022",
+  
 };
 firebase.initializeApp(firebaseConfig);
 
